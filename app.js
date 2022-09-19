@@ -202,6 +202,7 @@ const app = {
               }
             }
             item.onclick = function(e){
+              cdAnimate.play()
               let songActive = $('.song.active')
               app.songs.forEach(function(i,index){
                 if(e.target.innerText == i.name){
