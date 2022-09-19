@@ -19,13 +19,13 @@ const app = {
     songs: [
         {
           name: "ForeverAlone",
-          singer: "Mụ Chuyên",
+          singer: "Chuyên Chu",
           path: "./nhac/ForeverAlone-JustaTee-2414526.mp3",
           image: "https://i.ytimg.com/vi/jTLhQf5KJSc/maxresdefault.jpg"
         },
         {
           name: "Bâng Khuâng",
-          singer: "Mụ Chinh",
+          singer: "Chị Chinh linh tinh",
           path: "./nhac/BangKhuang-JustaTee-3096193.mp3",
           image:
             "https://1.bp.blogspot.com/-kX21dGUuTdM/X85ij1SBeEI/AAAAAAAAKK4/feboCtDKkls19cZw3glZWRdJ6J8alCm-gCNcBGAsYHQ/s16000/Tu%2BAana%2BPhir%2BSe%2BRap%2BSong%2BLyrics%2BBy%2BRaftaar.jpg"
