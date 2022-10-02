@@ -19,13 +19,13 @@ const app = {
     songs: [
         {
           name: "ForeverAlone",
-          singer: "Chuyên Chu",
+          singer: "ca sĩ 1",
           path: "./nhac/ForeverAlone-JustaTee-2414526.mp3",
           image: "https://i.ytimg.com/vi/jTLhQf5KJSc/maxresdefault.jpg"
         },
         {
           name: "Bâng Khuâng",
-          singer: "Chị Chinh linh tinh",
+          singer: "Ca sĩ 3",
           path: "./nhac/BangKhuang-JustaTee-3096193.mp3",
           image:
             "https://1.bp.blogspot.com/-kX21dGUuTdM/X85ij1SBeEI/AAAAAAAAKK4/feboCtDKkls19cZw3glZWRdJ6J8alCm-gCNcBGAsYHQ/s16000/Tu%2BAana%2BPhir%2BSe%2BRap%2BSong%2BLyrics%2BBy%2BRaftaar.jpg"
@@ -39,7 +39,7 @@ const app = {
         },
         {
           name: "CryingOverYou",
-          singer: "Nhị 2K5",
+          singer: "ca sĩ 4",
           path: "./nhac/CryingOverYou-JustaTeeBinz-2866818.mp3",
           image:
             "https://a10.gaanacdn.com/images/song/39/24225939/crop_480x480_1536749130.jpg"
